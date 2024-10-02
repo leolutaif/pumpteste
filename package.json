@@ -1,0 +1,20 @@
+{
+  "name": "minha-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.3",
+    "bigint-buffer": "^1.1.5",
+    "bs58": "^6.0.0",
+    "express": "^4.21.0",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
